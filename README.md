@@ -1,5 +1,5 @@
 # CESC
-The project data analysis code of Machine learning-based prediction of survival prognosis in cervical cancer
+The project data analysis code
 # select_normal_code.R
 The code is used to select 307 primary cervical cancer samples ID, 3 control samples ID and 2 metastatic samples ID
 # COX-PH.R
